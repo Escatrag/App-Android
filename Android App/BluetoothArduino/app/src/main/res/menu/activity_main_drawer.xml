@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home_menu"
+            android:icon="@drawable/ic_action_homepage"
+            android:title="Menu Principal"/>
+        <item
+            android:id="@+id/led_menu"
+            android:icon="@drawable/ic_action_led_black"
+            android:title="Pins" />
+        <item
+            android:id="@+id/pin_menu"
+            android:icon="@drawable/ic_action_pin"
+            android:title="Pin PWM" />
+        <item
+            android:id="@+id/ecran_menu"
+            android:icon="@drawable/ic_action_screen"
+            android:title="Ecran" />
+    </group>
+</menu>

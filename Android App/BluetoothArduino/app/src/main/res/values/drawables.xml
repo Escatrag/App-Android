@@ -1,0 +1,5 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_action_led" type="drawable">@drawable/ic_action_led_black</item>
+    <item name="ic_action_pin" type="drawable">@drawable/ic_action_pin</item>
+    <item name="ic_action_screen" type="drawable">@drawable/ic_action_screen</item>
+</resources>

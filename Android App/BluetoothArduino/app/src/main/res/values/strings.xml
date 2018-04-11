@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bluetooth Arduino</string>
+
+    <string name="navigation_drawer_open">Ouvrir le navigation drawer</string>
+    <string name="navigation_drawer_close">Fermer le navigation drawer</string>
+    <string name="errorPairing">Erreur lors de la connection</string>
+
+    <string name="action_settings">Parametres</string>
+</resources>
